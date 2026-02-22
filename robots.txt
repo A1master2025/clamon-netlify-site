@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /thank-you/
+Disallow: /landing/
+Disallow: /drafts/
+
+Sitemap: https://clamoncounseling.com/sitemap.xml
