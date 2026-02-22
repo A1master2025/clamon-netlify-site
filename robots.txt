@@ -3,4 +3,4 @@ Disallow: /thank-you/
 Disallow: /landing/
 Disallow: /drafts/
 
-Sitemap: https://clamoncounseling.com/sitemap.xml
+Sitemap: https://www.clamoncounseling.com/sitemap.xml

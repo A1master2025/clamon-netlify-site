@@ -27,7 +27,7 @@ Example: promote /drafts/services/family-therapy/ to /services/family-therapy/
 3) Add the new URL to `sitemap.xml`.
 
 ## Update base URL
-Search for `https://clamoncounseling.com` in the project if deploying to a different domain.
+Search for `https://www.clamoncounseling.com` in the project if deploying to a different domain.
 
 ## Notes
 - This build avoids medical outcome guarantees.
